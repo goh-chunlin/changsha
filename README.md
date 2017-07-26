@@ -10,7 +10,9 @@ This is a simple photo uploading web application with the following features:
 2. Uploading of photos;
 3. Connecting to backend on Microsoft Azure.
 
-![Sample Page](github-images/screenshot.png?raw=true)
+![Login to Website via Google](github-images/login-screenshot.png?raw=true)
+
+![After Logged in](github-images/homepage-screenshot.png?raw=true)
 
 ## Things To Fix
 
