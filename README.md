@@ -36,4 +36,3 @@ npm run build
 - [Docs for vue-loader](http://vuejs.github.io/vue-loader)
 - [Simple Vue Plugin to Include a Google Signin Button](https://github.com/phanan/vue-google-signin-button)
 - [File Uploads in Vue](https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2)
-For detailed explanation on how things work, consult the [docs for vue-loader]().
